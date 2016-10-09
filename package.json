@@ -1,0 +1,20 @@
+{
+  "name": "waxillium-protractor",
+  "version": "0.0.1",
+  "description": "A Protractor plugin to track and diff changes to computed styles on web pages and in web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Hitchman",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "jasmine": "^2.5.2",
+    "protractor": "^4.0.9",
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "waxillium": "^0.0.0"
+  }
+}
